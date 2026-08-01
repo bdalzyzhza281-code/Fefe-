@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>صفحة حولي</title>
+</head>
+<body>
+
+    <h1>نبذة عني</h1>
+    <h2>التعليم والخبرة العملية</h2>
+    <p>طالبة هندسة معلوماتية في السنة الرابعة، أمتلك شغفاً كبيراً بمجال تطوير وتصميم المواقع الإلكترونية،  متدربة في أكادمية علاء الدين وأعمل على تطوير مهاراتي البرمجية بشكل مستمر لبناء تطبيقات ويب احترافية.</p>
+    <h2>مسيرتي المهنية</h2> 
+    <img src="https://university-study-in-germany.com/wp-content/uploads/2024/03/%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-2.jpg" width="250">
+     
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYgzX0EO_wKxaRsCbuQBCDOAEgcY5G_cwx5-8skVfDiw&s=10"width="250">
+    <br><br>
+<a href="index.html ">الرجوع للصفحة الرئيسية</a>
+
+</body>
+</html>
