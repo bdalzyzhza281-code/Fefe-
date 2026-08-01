@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>صفحة الاتصال بي</title>
+</head>
+<body>
+
+    <h1>أتصل بي</h1>
+    <form>
+        <label>الاسم:</label><br>
+        <input type="text">
+        <br><br>
+
+        <label>البريد الإلكتروني:</label><br>
+        <input type="email">
+        <br><br>
+
+        <label>الموضوع:</label><br>
+        <input type="text">
+       <br><br>
+        <label>الرسالة:</label><br>
+        <textarea rows="5" cols="30"></textarea><br><br>
+
+        
+        <button type="submit">send</button>
+    </form>
+
+    <br>
+ 
+    <a href="index.html">الرجوع للصفحة الرئيسية</a>
+
+</body>
+</html>
+
+</body>
+</html>
