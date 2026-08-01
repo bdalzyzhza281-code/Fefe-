@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تسجيل الدخول</title>
+</head>
+<body>
+ <h1>تسجيل الدخول</h1>
+ <form>
+ <label for="">enter your name</label>    
+    <input type="text">
+    <br><br>
+ <label for="">enter your email </lable>  
+    <input type="email"> 
+     <br><br>
+ <label for="">enter your password </label>   
+    <input type="password">
+     <br><br>
+         <!-- زر تسجيل الدخول -->
+        <button type="submit">send</button>
+    </form>
+
+    <br>
+    <!-- رابط الرجوع للصفحة الرئيسية -->
+    <a href="index.html">الرجوع للصفحة الرئيسية</a>
+    
+ </form>   
+</body>
+</html>
