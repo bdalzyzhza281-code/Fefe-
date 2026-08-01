@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>الصفحة الرئيسية</title>
+</head>
+<body>
+
+    <!-- روابط الانتقال بين الصفحات -->
+    <ul>
+        <li><a href="index.html">الصفحة الرئيسية</a></li>
+        <li><a href="skill.html">المهارات</a></li>
+        <li><a href="projects.html">المشاريع</a></li>
+        <li><a href="about.html">حولي</a></li>
+        <li><a href="login.html">تسجيل الدخول</a></li>
+        <li><a href="contact.html">الاتصال بي</a></li>
+    </ul>
+
+    <h1>مرحباً بكم في موقعي الشخصي</h1>
+    
+    <img src="https://template.canva.com/EAG2k9DzrDY/2/0/1600w-L3-oE2qx43s.jpg" width="150">
+
+    <h2>نبذة عني:</h2>
+    <p>أنا مبرمج مواقع ويب، أمتلك خبرة في بناء وتصميم المواقع الإلكترونية، وأسعى دائماً لتطوير مهاراتي في هذا المجال.</p>
+
+</body>
+</html>
