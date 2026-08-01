@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>صفحة المهارات</title>
+</head>
+<body>
+
+    <h1>صفحة المهارات</h1>
+
+    <ul>
+        <li>لغات البرمجة
+            <ul>
+                <li>java</li>
+                <li>sql</li>
+            </ul>
+        </li>
+
+        <li>أدوات التطوير
+            <ul>
+                <li>vs code</li>
+                <li>chrome dev tools</li>
+            </ul>
+        </li>
+
+        <li>المهارات الشخصية
+            <ul>
+                <li>حل المشكلات والتعلم منها</li>
+                <li>الاعتماد على الذات</li>
+                <li>التدريب المستمر</li>
+            </ul>
+        </li>
+    </ul>
+
+    <br>
+    <a href="index.html">الرجوع للصفحة الرئيسية</a>
+
+</body>
+</html>
